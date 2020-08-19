@@ -15,5 +15,8 @@ This document answers frequently asked questions from clients to our support sta
 ## Merchant Account Integration.pdf
 This document explains the different credit card processing options we offer. I wrote it as a tool for our onboarding team, but it's also referenced by clients who want to evaluate options.  
 
+## Tiered Pricing User Guide.docx.pdf
+This document is a resource for our support teams, to help them support a new product. It includes communications to clients and more detailed information than we included in our Knowledge Base.  
+
 ## View From a Seat.pdf
 This document explains a new feature. It also includes instructions for use.  
