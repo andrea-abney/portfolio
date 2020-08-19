@@ -9,5 +9,8 @@ This instructional document walks end users through creating a new look for thei
 ## Cross-Sell Events.pdf
 This document explains a new feature. It includes instructions for use and an FAQ.  
 
+## Merchant Account Integration.pdf
+This document explains the different credit card processing options we offer. I wrote it as a tool for our onboarding team, but it's also referenced by clients who want to evaluate options.  
+
 ## View From a Seat.pdf
 This document explains a new feature. It also includes instructions for use.  
