@@ -9,6 +9,9 @@ This instructional document walks end users through creating a new look for thei
 ## Cross-Sell Events.pdf
 This document explains a new feature. It includes instructions for use and an FAQ.  
 
+## Exchanges FAQ.pdf
+This document answers frequently asked questions from clients to our support staff. I wrote it to assist our frontline staff, and it was updated with new entries if end users asked questions not addressed in other documentation. 
+
 ## Merchant Account Integration.pdf
 This document explains the different credit card processing options we offer. I wrote it as a tool for our onboarding team, but it's also referenced by clients who want to evaluate options.  
 
